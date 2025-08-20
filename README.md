@@ -92,9 +92,7 @@ The model is trained using Lung Segmentation Data images only and not masks.
 
 -PDF Report Generation: Patient-specific analysis report with disclaimers.
 
-## License
 
-MIT License. Free to use, copy, and modify.
 
 ## Acknowledgements
 
