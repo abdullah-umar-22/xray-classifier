@@ -64,6 +64,21 @@ Login with demo credentials:
 -Username: admin | Password: 12345
 -Username: doctor | Password: med2025
 
+
+## Demo Screenshots
+
+### Login Page
+![Login](images/login.png)
+
+### Single Prediction
+![Single Prediction](images/single_pred.png)
+
+### Batch Prediction
+![Batch Prediction](images/batch_pred.png)
+
+### PDF Report
+![PDF Report](images/generated_pdf.png)
+
 ## Model Details
 
 **Type**: Custom CNN trained from scratch  
